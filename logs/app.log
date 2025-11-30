@@ -1,0 +1,1534 @@
+2025-11-30 21:09:48,645 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:35,438 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:37,800 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:54,044 [INFO] rag.ingest - Ingesting HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 21:11:56,552 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,552 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:56,817 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,823 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,823 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:56,920 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,923 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,923 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:56,969 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,975 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:56,976 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,045 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,068 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,072 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,072 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,122 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,145 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,154 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,154 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,225 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,260 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,267 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,267 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,322 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,355 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,361 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,361 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,432 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,459 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,466 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,466 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,521 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,576 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,581 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,581 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,616 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,624 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,625 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,678 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,698 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,705 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,705 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,755 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,793 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,799 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,799 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,852 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,885 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,892 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,892 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:57,943 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,970 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,981 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:57,982 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,028 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,033 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,033 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,085 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,116 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,121 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,121 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,174 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,198 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,204 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,204 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,257 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,296 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,302 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,302 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,355 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,393 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,407 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,408 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,463 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,487 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,494 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,494 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,550 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,591 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,597 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,597 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,650 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,684 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,693 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,694 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,755 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,794 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,801 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,801 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,856 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,899 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,905 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:58,905 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:58,959 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,002 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,008 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,008 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,065 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,093 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,101 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,102 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,151 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,183 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,190 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,191 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,224 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,229 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,230 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,289 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,322 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,329 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,330 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,369 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,377 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,377 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,445 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,527 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,535 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,536 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,715 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,759 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,766 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,767 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,833 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,872 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,878 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,878 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:11:59,943 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,974 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,981 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:11:59,982 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,044 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,095 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,114 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,117 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,118 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,144 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,148 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,148 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,201 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,221 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,226 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,226 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,279 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,316 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,320 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,320 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,373 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,422 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,443 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,463 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,464 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,519 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,574 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,599 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,604 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,604 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,651 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,674 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,681 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,681 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,775 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,816 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,822 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:12:00,823 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:12:00,967 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 500 Internal Server Error"
+2025-11-30 21:12:00,968 [ERROR] llm.embeddings - Embedding provider failed
+Traceback (most recent call last):
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/embeddings.py", line 74, in embed
+    vectors = provider.embed(texts)
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/embeddings.py", line 31, in embed
+    resp = self.client.embeddings(model=self.model, prompt=text)
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 417, in embeddings
+    return self._request(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 189, in _request
+    return cls(**self._request_raw(*args, **kwargs).json())
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 133, in _request_raw
+    raise ResponseError(e.response.text, e.response.status_code) from None
+ollama._types.ResponseError: do embedding request: Post "http://127.0.0.1:60952/embedding": EOF (status code: 500)
+2025-11-30 21:14:10,032 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:15:42,402 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:15:56,419 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:15:58,168 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:15:58,180 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:15:58,181 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:15:58,909 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:15:58,926 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:15:58,926 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:16:09,655 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:16:37,655 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:16:37,668 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:16:37,668 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:16:37,879 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:16:37,885 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:16:37,886 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:16:39,331 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:19:36,664 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:19:36,679 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:19:36,679 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-11-30 21:19:36,776 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:19:36,781 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:19:36,782 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:19:39,160 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:21:57,076 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:22:08,135 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:22:11,899 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:23:45,915 [INFO] rag.vector_store - Loading vector store from /Users/vkonga1/Desktop/Projects/HR_Bot/store/index.faiss
+2025-11-30 21:23:45,940 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:24:20,035 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:24:32,066 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:24:35,243 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:24:38,439 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:07,175 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:15,703 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:17,881 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:17,888 [INFO] rag.ingest - Ingesting HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 21:25:20,559 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:20,559 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,252 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,259 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,259 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,297 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,319 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,324 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,324 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,354 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,371 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,377 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,377 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,410 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,445 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,471 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,475 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,475 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,504 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,538 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,562 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,567 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,567 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,600 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,640 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,675 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,698 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,715 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,716 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,747 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,782 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,817 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,836 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,840 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,840 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,871 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,902 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,927 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,930 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:21,930 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:21,964 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,046 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,078 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,105 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,108 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,108 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,144 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,174 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,180 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,181 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,218 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,254 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,276 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,282 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,283 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,314 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,346 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,381 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,405 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,411 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,411 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,445 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,478 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,511 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,534 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,539 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,541 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,572 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,606 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,636 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,644 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,644 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,675 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,705 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,721 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,727 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,729 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,770 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,813 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,846 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,865 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,906 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,906 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:22,939 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:22,974 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,001 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,004 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,004 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,049 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,085 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,119 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,145 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,153 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,153 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,184 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,220 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,251 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,275 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,281 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,281 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,313 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,345 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,368 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,374 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,374 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,404 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,435 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,471 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,499 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,509 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,509 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,539 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,572 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,602 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,617 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,623 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,624 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,655 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,690 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,724 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,747 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,753 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,754 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,785 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,819 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,851 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,877 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,883 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,883 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:23,913 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,947 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:23,978 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,008 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,015 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,015 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,046 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,080 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,107 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,112 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,112 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,143 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,178 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,212 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,229 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,236 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,237 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,264 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,284 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,295 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,295 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,326 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,360 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,388 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,394 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,395 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,428 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,454 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,461 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,461 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,495 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,529 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,563 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,587 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,592 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,592 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,619 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,651 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,680 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,690 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,690 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,740 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,806 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,838 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,846 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,846 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,883 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,917 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,945 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,949 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:24,950 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:24,986 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,020 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,054 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,093 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,117 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,124 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,124 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:25,153 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,284 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,292 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,292 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:25,339 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,375 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,399 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,407 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,409 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:25,442 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,479 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,517 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,543 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,551 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,551 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:25,584 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,624 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,855 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,939 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,987 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,992 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:25,992 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,028 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,072 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,108 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,144 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,169 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,175 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,175 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,210 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,243 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,262 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,267 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,268 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,305 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,350 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,386 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,408 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,413 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,413 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,453 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,492 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,532 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,536 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,536 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,577 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,612 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,641 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,646 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,646 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,688 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,730 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,759 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,763 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,763 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,800 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,838 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,871 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,888 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,893 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,894 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:26,935 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:26,974 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,014 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,028 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,032 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,032 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:27,049 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,053 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,053 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:27,091 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,128 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,149 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,154 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,154 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:27,192 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,214 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,218 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,218 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:27,292 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,318 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,322 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,323 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:27,369 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,412 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,458 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,487 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,504 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,508 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,508 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:27,548 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,587 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,626 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,649 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:27,655 [INFO] rag.ingest - Ingested 175 chunks from HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 21:25:38,789 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:42,375 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:42,383 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:42,384 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:25:42,499 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:25:42,520 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:25:42,521 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:25:44,384 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:26:23,045 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:26:23,056 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:26:23,056 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:26:23,164 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:26:34,972 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:26:34,982 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:26:34,984 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:26:35,103 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:26:35,110 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:26:35,111 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:26:37,031 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:27:09,619 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:27:12,729 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:27:19,264 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:27:19,274 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:27:19,274 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:27:19,408 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:22,155 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:25,287 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:27,682 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:38,192 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:40,686 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:45,892 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:47,371 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:47,376 [INFO] rag.ingest - Ingesting HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 21:30:49,909 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:49,909 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,075 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,081 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,081 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,117 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,139 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,145 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,146 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,176 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,192 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,197 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,198 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,233 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,271 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,294 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,299 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,299 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,328 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,364 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,387 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,395 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,395 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,428 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,471 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,512 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,536 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,540 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,540 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,580 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,620 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,654 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,674 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,681 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,681 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,713 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,746 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,774 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,781 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,781 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,818 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,851 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,886 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,914 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,920 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,920 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:50,951 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,974 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,979 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:50,979 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,014 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,052 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,072 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,075 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,075 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,107 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,137 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,170 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,195 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,201 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,201 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,236 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,273 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,306 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,332 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,338 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,339 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,370 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,405 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,433 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,440 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,440 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,472 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,504 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,519 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,530 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,530 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,562 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,596 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,626 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,646 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,652 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,652 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,688 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,719 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,741 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,746 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,747 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,777 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,819 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,855 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,885 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,892 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,893 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:51,926 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,960 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:51,994 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,020 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,028 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,028 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,062 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,097 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,121 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,131 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,131 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,164 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,196 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,230 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,263 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,269 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,270 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,301 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,335 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,366 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,382 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,423 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,424 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,460 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,498 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,540 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,572 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,578 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,579 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,619 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,657 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,692 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,719 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,725 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,728 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,760 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,794 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,827 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,853 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,861 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,862 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,893 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,925 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,953 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,960 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:52,960 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:52,991 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,033 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,064 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,083 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,091 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,091 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,120 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,139 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,144 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,145 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,178 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,219 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,244 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,248 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,248 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,279 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,302 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,306 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,306 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,336 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,367 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,397 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,418 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,421 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,422 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,447 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,475 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,498 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,505 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,505 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,536 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,568 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,597 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,601 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,602 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,632 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,665 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,695 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,703 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,703 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,739 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,773 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,807 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,840 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,863 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,870 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,870 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,897 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,913 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,916 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,916 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:53,948 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:53,983 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,006 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,013 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,014 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,044 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,077 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,112 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,134 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,141 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,141 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,173 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,205 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,238 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,274 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,297 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,303 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,304 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,334 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,368 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,402 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,435 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,463 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,469 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,469 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,500 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,532 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,552 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,560 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,560 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,594 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,639 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,676 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,695 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,704 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,704 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,741 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,784 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,819 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,825 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,825 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,866 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,903 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,937 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,945 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:54,945 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:54,986 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,031 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,053 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,062 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,062 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,099 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,137 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,172 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,190 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,196 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,196 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,236 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,275 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,314 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,331 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,337 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,337 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,353 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,361 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,361 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,401 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,438 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,461 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,468 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,468 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,506 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,531 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,539 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,539 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,580 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,606 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,615 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,615 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,664 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,704 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,751 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,782 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,803 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,810 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,810 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:30:55,851 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,890 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,927 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,951 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:30:55,955 [INFO] rag.ingest - Ingested 175 chunks from HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 21:30:59,075 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:31:01,967 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:31:01,997 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:31:01,998 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:31:02,098 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:31:06,965 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:31:06,971 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:31:06,972 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:31:07,080 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:32:25,516 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:32:27,848 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:32:27,865 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:32:27,866 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:32:27,933 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:32:27,939 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:32:27,940 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:32:30,816 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:33:48,351 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:33:51,128 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:33:51,143 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:33:51,144 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:33:51,238 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:33:51,245 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:33:51,248 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:33:52,419 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:35:23,926 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:30,566 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:33,188 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:33,199 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:33,199 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:35:33,275 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:35:33,280 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:33,281 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:35:34,143 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:35:43,696 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:43,707 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:43,708 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:35:43,772 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:35:43,778 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:35:43,779 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:35:45,135 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:36:02,143 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:36:02,163 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:36:02,164 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:36:02,283 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:36:02,288 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:36:02,291 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:36:04,007 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:54:19,273 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:04,658 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:09,516 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:12,618 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:16,321 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:16,332 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:16,332 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:55:17,007 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:55:17,015 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:55:17,016 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:55:19,030 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:57:42,571 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:57:46,287 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:57:46,303 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:57:46,304 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:57:46,445 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:57:46,460 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:57:46,461 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:57:47,679 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:58:01,773 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:01,869 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:01,869 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:58:01,941 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:58:01,947 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:01,948 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:58:02,909 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:58:06,601 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:08,271 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:12,843 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:24,070 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:24,087 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:24,087 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:58:24,211 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:58:24,219 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:24,219 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:58:26,190 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 21:58:36,849 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:38,310 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:40,027 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:41,072 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:41,230 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:42,182 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:58:43,075 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:59:00,115 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:59:08,203 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:59:08,215 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:59:08,215 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 21:59:08,305 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 21:59:08,312 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 21:59:08,312 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 21:59:09,669 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:00:00,441 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:00,451 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:00,455 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:00:00,532 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:00:00,539 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:00,539 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:00:01,395 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:00:02,901 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:04,305 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:42,411 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:42,438 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:42,438 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:00:42,533 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:00:42,540 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:00:42,540 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:00:43,562 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:01:18,626 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:01:23,463 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:01:29,688 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:01:29,699 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:01:29,699 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:01:29,766 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:01:29,772 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:01:29,773 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:01:30,701 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:05:46,749 [INFO] rag.vector_store - Loading vector store from /Users/vkonga1/Desktop/Projects/HR_Bot/store/index.faiss
+2025-11-30 22:05:46,776 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:05:54,093 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:02,704 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:09,103 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:09,112 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:09,112 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:07:09,753 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:07:09,772 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:09,772 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:07:11,940 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:07:11,995 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:23,119 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:23,129 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:23,130 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:07:23,189 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:07:23,195 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:07:23,197 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:07:25,088 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:07:25,125 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:09:31,884 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:12:08,986 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:12:15,751 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:12:24,852 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:12:34,864 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:12:56,060 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:13:11,466 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:13:28,200 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:13:36,974 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:13:44,331 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:13:52,564 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:14:03,916 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:14:11,021 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:14:17,576 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:15:44,297 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:15:54,069 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:16:03,212 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:16:10,391 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:16:16,950 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:16:24,981 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:16:40,263 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:16:54,891 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:17:02,498 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:17:09,632 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:17:19,681 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:17:27,969 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:17:41,180 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:17:56,521 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:05,658 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:12,344 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:18,870 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:27,917 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:27,931 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:27,931 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:18:28,524 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:18:28,537 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:28,539 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:18:30,503 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:18:30,568 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:36,338 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:36,350 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:36,351 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:18:36,580 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:18:36,588 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:18:36,589 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:18:37,714 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:18:37,748 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:04,293 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:04,303 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:04,304 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:20:04,402 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:20:04,408 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:04,408 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:20:05,550 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:20:05,661 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:12,489 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:12,504 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:12,504 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:20:12,580 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:20:12,585 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:12,586 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:20:13,489 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:20:13,525 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:26,903 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:26,912 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:26,912 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:20:27,027 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:20:27,033 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:20:27,034 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:20:28,286 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:20:28,337 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:21:15,379 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:21:41,510 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:21:48,011 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:21:52,667 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:21:52,687 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:21:52,688 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:21:52,772 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:22:08,687 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:14,337 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:16,979 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:16,990 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:16,991 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:22:17,059 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:22:17,111 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:49,226 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:49,242 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:49,243 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:22:49,288 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:22:49,347 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:57,909 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:57,921 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:22:57,921 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:22:58,025 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:22:58,065 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:23,003 [INFO] rag.vector_store - Loading vector store from /Users/vkonga1/Desktop/Projects/HR_Bot/store/index.faiss
+2025-11-30 22:23:23,033 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:25,651 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:25,664 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:25,665 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:23:25,746 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:23:26,118 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:44,085 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:44,114 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:44,115 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:23:44,203 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:23:44,273 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:45,766 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:58,003 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:23:59,969 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:06,024 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:07,632 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:07,636 [INFO] rag.ingest - Ingesting HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 22:24:10,514 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,514 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:10,636 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,642 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,642 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:10,696 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,718 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,722 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,722 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:10,763 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,785 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,788 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,789 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:10,837 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,873 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,895 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,899 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,899 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:10,931 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,968 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,991 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,995 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:10,995 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,038 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,075 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,109 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,131 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,135 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,135 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,168 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,205 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,238 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,258 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,262 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,262 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,293 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,326 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,351 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,360 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,360 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,398 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,463 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,501 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,529 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,551 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,551 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,602 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,631 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,635 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,635 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,673 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,708 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,730 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,733 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,734 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,767 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,799 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,833 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,858 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,862 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,862 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:11,900 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,932 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,963 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,984 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,988 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:11,988 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,018 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,048 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,074 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,078 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,078 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,109 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,137 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,152 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,156 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,157 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,187 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,220 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,248 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,265 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,270 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,270 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,302 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,332 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,356 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,359 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,360 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,391 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,427 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,459 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,486 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,490 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,490 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,520 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,550 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,581 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,603 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,607 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,607 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,638 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,670 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,695 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,699 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,699 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,729 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,764 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,798 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,830 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,834 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,834 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:12,867 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,899 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,929 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,943 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,992 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:12,992 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,028 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,066 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,104 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,132 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,137 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,137 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,174 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,207 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,241 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,269 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,276 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,276 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,308 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,342 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,374 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,404 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,408 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,408 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,438 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,469 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,500 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,505 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,505 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,536 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,569 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,602 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,618 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,622 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,622 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,650 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,667 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,670 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,671 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,702 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,736 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,762 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,767 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,767 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,799 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,825 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,830 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,831 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,863 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,896 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,931 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,954 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,960 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:13,961 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:13,987 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,019 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,044 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,050 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,051 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,090 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,122 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,150 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,156 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,157 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,188 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,222 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,252 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,261 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,261 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,296 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,329 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,364 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,398 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,422 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,428 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,429 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,456 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,475 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,481 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,481 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,516 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,550 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,573 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,581 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,582 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,613 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,648 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,682 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,706 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,712 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,713 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,743 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,780 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,833 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,880 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,907 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,917 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:14,917 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:14,964 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,014 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,056 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,095 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,122 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,127 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,127 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,160 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,193 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,211 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,216 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,216 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,250 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,290 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,324 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,343 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,347 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,347 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,383 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,420 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,453 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,457 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,457 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,499 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,535 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,564 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,571 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,571 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,612 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,654 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,676 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,684 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,684 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,723 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,760 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,791 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,812 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,816 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,816 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,856 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,895 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,936 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,955 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,962 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,963 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:15,979 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,984 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:15,984 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:16,022 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,061 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,088 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,093 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,094 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:16,131 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,154 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,169 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,169 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:16,212 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,241 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,245 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,245 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:16,294 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,335 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,384 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,414 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,435 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,441 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,442 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:16,482 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,521 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,560 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,586 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:16,589 [INFO] rag.ingest - Ingested 175 chunks from HR-Guide_-Policy-and-Procedure-Template.pdf
+2025-11-30 22:24:21,636 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:23,757 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:23,765 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:23,766 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:23,866 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:24,379 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:39,589 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:39,598 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:24:39,598 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:24:39,703 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:24:39,778 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:26:50,979 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:26:54,411 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:26:54,427 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:26:54,428 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:26:54,512 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:26:54,521 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:26:54,521 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:26:56,335 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:26:57,285 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:27:20,275 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:27:24,573 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:27:24,586 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:27:24,587 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:27:24,674 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:27:24,680 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:27:24,681 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:27:25,493 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:27:26,081 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:28:38,672 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:28:42,170 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:28:42,224 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:28:48,050 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:28:48,147 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:30:00,706 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:30:06,179 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:30:08,297 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:30:08,349 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:30:15,365 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:30:15,416 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:33:05,532 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:33:07,720 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:33:07,774 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:33:15,715 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:33:15,764 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:37,946 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:40,762 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:40,770 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:40,771 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:35:43,309 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:35:43,362 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:46,198 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:46,209 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:46,210 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:35:46,960 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:35:47,012 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:56,230 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:58,489 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:58,498 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:35:58,499 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:35:59,212 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:35:59,259 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:36:03,729 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:36:03,738 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:36:03,738 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:36:04,502 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:36:04,575 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:36:12,501 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:36:12,514 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:36:12,514 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:36:13,246 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:36:13,316 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:42:44,211 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:42:48,390 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:42:50,454 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:42:50,459 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:42:50,460 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:42:52,068 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:42:52,076 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:42:52,076 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:42:52,699 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:42:53,132 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:01,281 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:01,289 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:01,289 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:43:01,990 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:43:01,997 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:01,998 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:43:02,249 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:43:02,910 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:19,312 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:19,324 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:19,324 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:43:20,108 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:43:20,114 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:20,115 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:43:20,905 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:43:20,931 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:43:20,931 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:43:21,466 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:43:25,321 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:45:19,001 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:45:19,021 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:45:19,023 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:45:19,818 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:45:19,824 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:45:19,825 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:45:20,067 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:45:20,573 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:50:49,559 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:50:56,184 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:50:56,194 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:50:56,194 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:50:58,049 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:50:58,056 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:50:58,056 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:50:58,656 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:50:58,665 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:50:58,666 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:50:59,229 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:51:01,564 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:51:44,401 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:51:46,953 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:51:46,979 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:51:46,980 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:51:47,827 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:51:47,836 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:51:47,837 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:51:47,902 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:51:47,911 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:51:47,911 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:51:48,451 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:51:52,047 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:52:52,071 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:52:56,090 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:52:56,103 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:52:56,103 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:52:56,955 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:52:56,962 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:52:56,964 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:52:57,042 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:52:57,052 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:52:57,053 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:52:57,602 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:53:00,333 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:54:20,955 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:54:34,360 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:54:34,377 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:54:34,378 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:54:35,219 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:54:35,226 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:54:35,228 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 22:54:35,459 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 22:54:35,465 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:54:35,466 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:54:35,993 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:54:40,432 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:58:28,971 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:58:33,244 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:58:33,264 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:58:33,264 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 22:58:35,596 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:58:35,605 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:58:35,606 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 22:58:35,856 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 22:58:36,213 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:59:52,992 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:59:59,240 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:59:59,260 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 22:59:59,260 [INFO] llm.client - Using Ollama model gemma3:1b
+2025-11-30 23:00:00,118 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 23:00:00,125 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 23:00:00,127 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-11-30 23:00:00,802 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-11-30 23:00:00,811 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-11-30 23:00:00,811 [INFO] llm.client - Streaming with Ollama model gemma3:1b
+2025-11-30 23:00:01,362 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-11-30 23:00:03,602 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
