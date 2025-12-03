@@ -24,7 +24,6 @@ logs/
 data/uploads/
 store/
 logs/
-store/
 
 # OS/editor
 .DS_Store

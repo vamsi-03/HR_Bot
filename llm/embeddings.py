@@ -83,7 +83,13 @@ class GeminiEmbeddings(EmbeddingProvider):
 
 class EmbeddingRouter:
     def __init__(self) -> None:
-        self.providers: List[EmbeddingProvider] = [OllamaEmbeddings(), GeminiEmbeddings()]
+        gemini = GeminiEmbeddings()
+        ollama = OllamaEmbeddings()
+        # Prefer Gemini when API key is present (cloud-friendly); otherwise fall back to Ollama-first.
+        if gemini.available():
+            self.providers: List[EmbeddingProvider] = [gemini, ollama]
+        else:
+            self.providers: List[EmbeddingProvider] = [ollama, gemini]
 
     def provider_statuses(self) -> List[ProviderStatus]:
         statuses: List[ProviderStatus] = []
