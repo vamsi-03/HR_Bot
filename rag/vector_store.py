@@ -36,6 +36,11 @@ class VectorStore:
 
     def _save(self) -> None:
         if self.index is None:
+            # Clean up persisted files if index is empty
+            if self.index_path.exists():
+                self.index_path.unlink()
+            if self.meta_path.exists():
+                self.meta_path.unlink()
             return
         faiss.write_index(self.index, str(self.index_path))
         with self.meta_path.open("w") as f:
@@ -56,6 +61,31 @@ class VectorStore:
         self.metadata.extend(metadatas)
         self._save()
         return len(texts)
+
+    def remove_source(self, source_name: str) -> int:
+        """Remove all chunks from a given source and rebuild the index."""
+        original_count = len(self.metadata)
+        remaining = [m for m in self.metadata if m.get("source") != source_name]
+        removed = original_count - len(remaining)
+        if removed == 0:
+            return 0
+        # Rebuild index from remaining metadata/text
+        self.metadata = remaining
+        if not remaining:
+            self.index = None
+            self._save()
+            return removed
+        texts = [m.get("text", "") for m in remaining]
+        vectors = self._normalize(self.embedder.embed(texts))
+        dim = vectors.shape[1]
+        self.index = faiss.IndexFlatIP(dim)
+        self.index.add(vectors)
+        self._save()
+        return removed
+
+    def reload(self) -> None:
+        """Reload index and metadata from disk."""
+        self._load()
 
     def search(self, query: str, top_k: int = 4) -> List[Tuple[Dict, float]]:
         if self.index is None or not self.metadata:
