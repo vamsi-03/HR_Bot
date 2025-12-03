@@ -27,11 +27,15 @@ def answer_question(question: str, store: VectorStore, llm: LLMRouter) -> Dict:
     hits = retrieve(question, store)
     filtered_hits = [(meta, score) for meta, score in hits if score >= SCORE_THRESHOLD]
     contexts = [meta["text"] for meta, _ in filtered_hits]
-    
+
+    # If nothing relevant, return explicit no-info
+    if not contexts:
+        return {"answer": "No information found.", "citations": [], "grounded": False}
+
     # Use the dedicated policy prompt
     prompt = build_policy_prompt(question, contexts)
     answer = llm.generate(prompt)
-    
+
     citations = [
         {
             "source": meta.get("source"),
@@ -72,14 +76,11 @@ def answer_question_stream(question: str, store: VectorStore, llm: LLMRouter) ->
     ]
     grounded = bool(contexts)
     
-    # If policy question but no context, send a soft failure message
+    # If policy question but no context, send a hard no-info response
     if not contexts:
         def _no_context() -> Iterator[str]:
-            # Use the policy prompt designed for no context
-            no_context_prompt = build_policy_prompt(question, [])
-            yield llm.generate(no_context_prompt)
-            
-        return _no_context(), citations, False # Citations are empty if score < threshold
+            yield "No information found."
+        return _no_context(), [], False  # Citations empty when no context
     
     # Use the dedicated policy prompt for grounded answers
     prompt = build_policy_prompt(question, contexts)

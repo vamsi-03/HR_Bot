@@ -15,6 +15,28 @@ st.set_page_config(page_title="HR RAG Bot", layout="wide")
 st.markdown(
     """
     <style>
+    body {background: #0b1220; color: #e2e8f0;}
+    .block-container {max-width: 1180px; padding-top: 2rem;}
+    h1, h2, h3, h4 {color: #e2e8f0;}
+    .hero {
+        background: linear-gradient(120deg, rgba(34,211,238,0.12), rgba(124,58,237,0.12));
+        border: 1px solid rgba(148,163,184,0.25);
+        border-radius: 16px;
+        padding: 1rem 1.25rem;
+        margin-bottom: 1rem;
+    }
+    [data-testid="stExpander"] {
+        border: 1px solid rgba(148,163,184,0.25);
+        border-radius: 10px;
+    }
+    [data-testid="stExpander"] summary { font-weight: 600;}
+    [data-testid="stExpander"] .streamlit-expanderContent {
+        white-space: pre-wrap;
+        word-break: break-word;
+        overflow-wrap: anywhere;
+        max-height: 320px;
+        overflow-y: auto;
+    }
     div[data-testid="stChatInput"] {
         position: fixed;
         bottom: 1.5rem;
@@ -24,6 +46,31 @@ st.markdown(
         z-index: 10;
     }
     section.main > div {padding-bottom: 90px;}
+    /* Sidebar navigation styling */
+    [data-testid="stSidebarNav"] {
+        padding-top: 0.5rem;
+    }
+    [data-testid="stSidebarNav"] ul {
+        background: #f8fafc;
+        border-radius: 12px;
+        padding: 0.5rem;
+        box-shadow: inset 0 1px 0 rgba(0,0,0,0.02);
+    }
+    [data-testid="stSidebarNav"] ul li a {
+        border-radius: 10px;
+        padding: 0.55rem 0.75rem;
+        color: #0f172a;
+        font-weight: 600;
+        transition: background 0.2s ease, color 0.2s ease;
+    }
+    [data-testid="stSidebarNav"] ul li a:hover {
+        background: #e2e8f0;
+    }
+    [data-testid="stSidebarNav"] ul li a[aria-current="page"] {
+        background: linear-gradient(120deg, rgba(34,211,238,0.22), rgba(124,58,237,0.18));
+        color: #0f172a;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
     </style>
     """,
     unsafe_allow_html=True,
@@ -36,16 +83,8 @@ if "history" not in st.session_state:
     st.session_state["history"]: List[Dict] = []
 
 
-def render_sidebar() -> None:
-    st.sidebar.header("Status")
-    statuses = llm.provider_statuses()
-    for status in statuses:
-        icon = "✅" if status.available else "⚠️"
-        st.sidebar.write(f"{icon} {status.name}: {status.detail or 'ready'}")
-    st.sidebar.write(f"Indexed chunks: {len(store.metadata)}")
-    st.sidebar.write(f"Vector store: {settings.vector_store_path}")
-    st.sidebar.divider()
-    st.sidebar.write("Use the Ingestion page to upload PDFs or DOCX files.")
+# def render_sidebar() -> None:
+    # st.sidebar.header("HR Bot")
 
 
 def render_history() -> None:
@@ -66,10 +105,25 @@ def render_history() -> None:
 
 
 st.title("HR Assistant (Grounded RAG)")
-st.caption("Grounded answers with strict citations; falls back to 'No information found.'")
-render_sidebar()
+st.markdown(
+    """
+    <div class="hero">
+      <div style="display:flex;align-items:center;gap:12px;">
+        <div style="width:42px;height:42px;border-radius:12px;background:rgba(34,211,238,0.2);display:flex;align-items:center;justify-content:center;font-size:22px;">🛡️</div>
+        <div>
+          <div style="font-size:20px;font-weight:700;">HR Assistant (Grounded RAG)</div>
+          <div style="font-size:14px;">Grounded answers with citations; no hallucinations.</div>
+        </div>
+      </div>
+    </div>
+    """,
+    unsafe_allow_html=True,
+)
+# render_sidebar()
 
+st.markdown('<div class="chat-shell">', unsafe_allow_html=True)
 render_history()
+st.markdown('</div>', unsafe_allow_html=True)
 
 prompt = st.chat_input("Ask an HR question")
 if prompt:

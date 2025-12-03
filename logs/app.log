@@ -1532,3 +1532,176 @@ ollama._types.ResponseError: do embedding request: Post "http://127.0.0.1:60952/
 2025-11-30 23:00:00,811 [INFO] llm.client - Streaming with Ollama model gemma3:1b
 2025-11-30 23:00:01,362 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
 2025-11-30 23:00:03,602 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:35:07,404 [INFO] rag.vector_store - Loading vector store from /Users/vkonga1/Desktop/Projects/HR_Bot/store/index.faiss
+2025-12-01 21:35:07,481 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:55:23,457 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:55:48,486 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:55:48,947 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:56:02,206 [INFO] rag.vector_store - Loading vector store from store/index.faiss
+2025-12-01 21:56:02,246 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:57:40,532 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 21:59:54,618 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:00:32,804 [INFO] rag.vector_store - Loading vector store from store/index.faiss
+2025-12-01 22:00:32,829 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:00:37,625 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:00:40,345 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:00:40,740 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:00:40,741 [INFO] llm.client - Using Ollama model 
+2025-12-01 22:00:40,743 [ERROR] llm.client - Provider ollama failed
+Traceback (most recent call last):
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 118, in generate
+    return provider.generate(prompt)
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 39, in generate
+    response = self.client.chat(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 369, in chat
+    json=ChatRequest(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ChatRequest
+model
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_too_short
+2025-12-01 22:00:41,146 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:00:42,305 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:00:42,305 [INFO] llm.client - Streaming with Ollama model 
+2025-12-01 22:00:42,306 [ERROR] llm.client - Provider ollama failed
+Traceback (most recent call last):
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 136, in _generator
+    yield from provider.stream(prompt)  # type: ignore
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 47, in stream
+    stream = self.client.chat(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 369, in chat
+    json=ChatRequest(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ChatRequest
+model
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_too_short
+2025-12-01 22:00:42,687 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:00:43,634 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:01:45,347 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:01:45,772 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:01:45,773 [INFO] llm.client - Using Ollama model 
+2025-12-01 22:01:45,773 [ERROR] llm.client - Provider ollama failed
+Traceback (most recent call last):
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 118, in generate
+    return provider.generate(prompt)
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 39, in generate
+    response = self.client.chat(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 369, in chat
+    json=ChatRequest(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ChatRequest
+model
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_too_short
+2025-12-01 22:01:46,147 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:01:46,819 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:01:46,822 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text:latest
+2025-12-01 22:01:47,951 [INFO] httpx - HTTP Request: POST http://127.0.0.1:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-01 22:01:47,975 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:01:47,976 [INFO] llm.client - Streaming with Ollama model 
+2025-12-01 22:01:47,976 [ERROR] llm.client - Provider ollama failed
+Traceback (most recent call last):
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 136, in _generator
+    yield from provider.stream(prompt)  # type: ignore
+  File "/Users/vkonga1/Desktop/Projects/HR_Bot/llm/client.py", line 47, in stream
+    stream = self.client.chat(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/ollama/_client.py", line 369, in chat
+    json=ChatRequest(
+  File "/Users/vkonga1/Desktop/Projects/myvenv/lib/python3.9/site-packages/pydantic/main.py", line 250, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for ChatRequest
+model
+  String should have at least 1 character [type=string_too_short, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/string_too_short
+2025-12-01 22:01:48,398 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:01:49,489 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:03:25,834 [INFO] httpx - HTTP Request: GET http://127.0.0.1:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:03:37,276 [INFO] rag.vector_store - Loading vector store from store/index.faiss
+2025-12-01 22:03:40,079 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:03:43,780 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:03:44,191 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:03:45,778 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:03:47,342 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:05:47,936 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:05:56,778 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:05:59,039 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:06:09,578 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:06:40,526 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-01 22:18:12,004 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:18:13,171 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:35:37,643 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:35:38,786 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:35:55,271 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:35:56,422 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:36:15,240 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:36:16,410 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-01 22:38:55,318 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-01 22:38:56,465 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:17:31,791 [INFO] rag.vector_store - Loading vector store from store/index.faiss
+2025-12-03 21:17:40,384 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:17:42,234 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:23:01,528 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:23:02,690 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:09,797 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:10,955 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:19,175 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:20,354 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:33,907 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:35,119 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:57,437 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:24:58,322 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:24:58,329 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:24:59,539 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:25:00,049 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:25:31,382 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:25:32,217 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:25:32,218 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:25:32,331 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:25:32,735 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:04,240 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:05,416 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:10,351 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:11,620 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:19,188 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:20,385 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:35,975 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:32:37,110 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:32:37,111 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:32:38,056 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:32:38,438 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:33:00,375 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:33:01,166 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:33:01,167 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:33:01,287 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:33:01,692 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:33:36,441 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:33:37,216 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:33:37,223 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:33:37,372 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:33:37,752 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:34:35,153 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:34:35,965 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:34:35,969 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:34:36,126 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:34:36,521 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:35:17,605 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:35:18,470 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:35:18,471 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:35:18,611 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:35:24,787 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:35:25,579 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:35:25,579 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:35:25,643 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:35:36,752 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:35:37,471 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:35:37,475 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:35:37,580 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:35:42,749 [INFO] llm.client - Using Gemini model gemini-2.5-flash-lite
+2025-12-03 21:35:44,121 [INFO] httpx - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+2025-12-03 21:35:44,121 [INFO] llm.embeddings - Embedding with Ollama model nomic-embed-text
+2025-12-03 21:35:44,178 [INFO] httpx - HTTP Request: POST http://localhost:11434/api/embeddings "HTTP/1.1 200 OK"
+2025-12-03 21:35:44,566 [INFO] llm.client - Streaming with Gemini model gemini-2.5-flash-lite

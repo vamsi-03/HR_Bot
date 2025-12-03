@@ -1,0 +1,32 @@
+# Environments
+.env
+.env.*
+venv/
+env/
+.venv/
+myvenv/
+
+# Streamlit secrets/config
+.streamlit/
+secrets.toml
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Logs
+logs/
+
+# Local data and indexes
+data/uploads/
+store/
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/

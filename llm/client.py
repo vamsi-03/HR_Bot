@@ -101,7 +101,7 @@ class GeminiLLM(BaseLLM):
 
 class LLMRouter:
     def __init__(self) -> None:
-        self.providers: List[BaseLLM] = [OllamaLLM(), GeminiLLM()]
+        self.providers: List[BaseLLM] = [GeminiLLM(),OllamaLLM()]
 
     def provider_statuses(self) -> List[ProviderStatus]:
         return [provider.available() for provider in self.providers]
@@ -150,21 +150,20 @@ def build_policy_prompt(question: str, contexts: List[str]) -> str:
     if not contexts:
         return (
             "You are an HR assistant. There is no matching source content for this question. "
-            "Reply in 1-2 short, warm, human sentences: greet the user, say you answer HR questions using their uploaded policies, "
-            "and invite them to ask a specific HR topic. Mention you couldn’t find supporting info for this one. "
+            "If it is a generic questions, like the user is chatting with the bot, provide human like replies. But when he is asking any questions. understand it and answer if they are relevant to HR policy"
+            "Understand the question you got and if the question is not related to HR policies, and at the same time, not generic - say that I don't have context and ask them to give questions related to HR policy"
             "Do not make anything up and do not add citations.\n\n"
             f"User question: {question}"
         )
     context_block = "\n\n".join(
-        [f"[{idx + 1}]\n{snippet}" for idx, snippet in enumerate(contexts)]
+        [f"[Source {idx + 1}]\n{snippet}" for idx, snippet in enumerate(contexts)]
     )
     return (
         "You are an HR assistant. First, understand the user’s intent; if it is HR-policy related, answer ONLY using the provided sources. "
         "Keep it concise (2-4 short sentences), warm, and human, and explicitly cite sources. "
         "When summarizing policies (e.g., leave policies), list the specific types and rules found, and avoid unrelated benefits. "
         "If the answer is not contained in the sources, reply exactly with 'No information found.'\n\n"
-        "don't make up any information which is not part of the retrived information, ensure the answers are tracebale to the documents"
-        f"{context_block}\n\nUser question: {question}\nAnswer with citations like [X] and avoid extra sources."
+        f"{context_block}\n\nUser question: {question}\nAnswer with citations like [Source X] and avoid extra sources."
     )
 
 
@@ -172,10 +171,10 @@ def build_conversational_prompt(question: str, intent: str) -> str:
     """Dedicated prompt for non-policy questions (chitchat/non_hr) to generate dynamic, friendly responses."""
     if intent == "chitchat":
         return (
-            "You are a friendly, human-like HR assistant. The user is starting a conversation (e.g., 'Hi', 'How are you?'). "
-            "Generate a warm, short, 1-2 sentence response that matches the user's tone (greet them or answer their question) "
-            "and then immediately introduce your role: you are here to answer HR policy questions based on company documents. "
-            "Do not use citations or policy information."
+            "You are an HR assistant. There is no matching source content for this question. "
+            "If it is a generic questions, like the user is chatting with the bot, provide human like replies. But when he is asking any questions. understand it and answer if they are relevant to HR policy"
+            "Understand the question you got and if the question is not related to HR policies, and at the same time, not generic - say that I don't have context and ask them to give questions related to HR policy"
+            "Do not make anything up and do not add citations.\n\n"
             f"\n\nUser message: {question}"
         )
     if intent == "non_hr":
