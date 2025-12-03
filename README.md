@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# HR_Bot
-A Streamlit-based HR assistant that answers employee policy questions using retrieval-augmented generation (RAG). Upload PDFs/DOCX (handbooks, PTO policies, onboarding docs), and the app ingests, chunks, embeds (Ollama or Gemini), and stores them in a local FAISS index.
-=======
 # HR RAG Bot (Streamlit)
 
 Local HR assistant using RAG with Ollama (primary) and Gemini (fallback). Supports PDF/DOCX ingestion, grounded answers with citations, and a simple eval harness.
@@ -27,4 +23,3 @@ Local HR assistant using RAG with Ollama (primary) and Gemini (fallback). Suppor
 - Answers are strictly grounded; no retrieval results -> direct “No information found.”
 - Logging writes to `logs/app.log`.
 - If embeddings fail during ingestion, ensure Ollama is running and the embedding model is available (e.g., `ollama pull nomic-embed-text`), or set a Gemini API key to use that embedder instead.
->>>>>>> e5856f8 (Initial Commit)

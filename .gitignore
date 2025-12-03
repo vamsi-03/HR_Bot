@@ -23,6 +23,7 @@ logs/
 # Local data and indexes
 data/uploads/
 store/
+logs/
 
 # OS/editor
 .DS_Store
